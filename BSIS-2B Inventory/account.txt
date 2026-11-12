@@ -1,0 +1,7 @@
+Account:
+
+admin: bruce
+password: SeMrCamper149
+
+customer: teto
+password: SeMrCamper149
